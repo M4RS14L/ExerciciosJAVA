@@ -16,7 +16,7 @@ Já para salários entre R$ 1903,99 e R$ 2.826,65, a alíquota é de 7,5%. Poré
 
 Para salários entre R$ 2.826,66 e R$ 3.751,05, a alíquota é de 15%. Sendo assim, tributo a ser recolhido deve considerar a primeira faixa (isenta), a parcela pertencente a segunda faixa e a parcela correspondente a terceira faixa. Assim sendo, considerando um salário de R$ 3.000,00 reais, o valor a ser pago é:
 
-**1ª faixa integral** (R$0,00-R$1.903,98)\n
+**1ª faixa integral** (R$0,00-R$1.903,98)
 
 **2ª faixa integral** (R$1.903,98-R$2.826,65) => 7.5% sobre o valor máximo da faixa que é de R$ 922,67, que resulta em R$ 69,20
 
