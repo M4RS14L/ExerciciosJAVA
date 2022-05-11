@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// esse é meu primeiro trabalho de fundamentos da programção, não me julguem pfvr 
+// esse é meu primeiro trabalho de fundamentos da programção
 public class mariaesoliveira
     {
         public static void main(String[]args){   
